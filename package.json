@@ -1,0 +1,19 @@
+{
+  "name": "projectbievaluation",
+  "version": "1.0.0",
+  "description": "project under construcction",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebsdevs/projectbeta.git"
+  },
+  "author": "Sebastian Arias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sebsdevs/projectbeta/issues"
+  },
+  "homepage": "https://github.com/sebsdevs/projectbeta#readme"
+}
